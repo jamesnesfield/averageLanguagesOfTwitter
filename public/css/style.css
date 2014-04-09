@@ -1,0 +1,70 @@
+body {
+	font-family: 'Avenir';
+	padding-bottom: 20px;
+}
+
+.arcLabel {
+	font-size: 16pt;
+}
+
+.chartLabel {
+	font-family: 'Avenir';
+	font-size: 24pt;
+	color: #EEE;
+}
+
+.mobile-title {
+	text-align: center;
+	font-family: 'Avenir';
+	font-size: 24pt;
+	color: #666;
+	margin-top: 60px;
+}
+
+
+
+p {
+	font-size: 14pt;
+	font-weight: 300;
+
+}
+
+.explanation {
+	margin-top: 40px;
+	text-align: justify;
+	color: #666;
+	margin-left: 10px5
+	margin-right: 10px;
+}
+
+.explanation-footnote {
+	margin-top: 40px;
+	text-align: right;
+	color: #ccc;
+	margin-right: 10px;
+	margin-bottom: 20px;
+
+}
+
+.lang {
+	font-size: 24pt;
+	font-weight: 100;
+}
+.count{
+	font-size: 36pt;
+	text-align: right;
+}
+
+.jamesnesfield {
+	padding-top: 68px!important;
+	padding-bottom: 74px!important;
+	color:#aaa!important;
+	font-weight: 100!important;
+	font-size: 14pt!important;
+
+}
+
+.languages-row {
+	margin-top: 70px;
+		color: #FFF;
+}
